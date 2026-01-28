@@ -348,7 +348,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ If you find this project useful, please consider giving it a star! ⭐**
 
-Made by [Mohammed Shehab](https://github.com/yourusername)
+Made by [Mohammed Shehab](https://github.com/M12Shehab)
 
 © 2026 Mohammed Shehab | MIT License
 
