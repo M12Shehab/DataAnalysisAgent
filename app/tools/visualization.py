@@ -1,4 +1,24 @@
 # app/tools/visualization.py
+"""
+Data Analysis Agent - AI-Powered CSV Data Explorer
+Copyright (c) 2026 Mohammed Shehab. All rights reserved.
+
+Author: Mohammed Shehab
+Email: shihab@live.cn
+GitHub: https://github.com/M12Shehab/DataAnalysisAgent
+LinkedIn: https://linkedin.com/in/mohammed-shehab
+
+Description:
+    Visualization tool functions for the Data Analysis Agent.
+    It provides safe, predefined plotting capabilities to avoid arbitrary code execution.
+    It supports histograms, box plots, scatter plots, and bar charts. You can add more plot types as needed.
+
+License:
+    MIT License - see LICENSE file for details
+
+Created: January 2026
+Last Modified: January 2026
+"""
 from __future__ import annotations
 
 from typing import Optional

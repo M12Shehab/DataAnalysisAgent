@@ -1,4 +1,26 @@
 # app/agent.py
+"""
+Data Analysis Agent - AI-Powered CSV Data Explorer
+Copyright (c) 2026 Mohammed Shehab. All rights reserved.
+
+Author: Mohammed Shehab
+Email: shihab@live.cn
+GitHub: https://github.com/M12Shehab/DataAnalysisAgent
+LinkedIn: https://linkedin.com/in/mohammed-shehab
+
+Description:
+    This module defines a LangChain-based agent that leverages OpenRouter's
+    GPT-4o-mini model to assist users in analyzing CSV datasets. The agent
+    is equipped with a suite of tools for data summarization, statistical
+    analysis, and visualization, enabling it to provide insightful responses
+    to user queries about their data.
+License:
+    MIT License - see LICENSE file for details
+
+Created: January 2026
+Last Modified: January 2026
+"""
+
 from __future__ import annotations
 
 import os
