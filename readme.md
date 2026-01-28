@@ -33,7 +33,7 @@ An intelligent, conversational data analysis assistant powered by AI. Upload CSV
 ### Option 1: Docker (Recommended)
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/data-analysis-agent.git
+git clone https://github.com/M12Shehab/DataAnalysisAgent.git
 cd data-analysis-agent
 
 # Create .env file with your API key
@@ -54,7 +54,7 @@ Visit `http://localhost:7860` 🎉
 **Steps:**
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/data-analysis-agent.git
+git clone https://github.com/M12Shehab/DataAnalysisAgent.git
 cd data-analysis-agent
 
 # Create virtual environment
@@ -319,9 +319,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 📚 15+ publications in top-tier conferences
 
 **Connect:**
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐙 [GitHub](https://github.com/yourusername)
-- 🌐 [Website](https://yourwebsite.com)
+- 💼 [LinkedIn](https://linkedin.com/in/mohammed-shehab)
+- 🐙 [GitHub](https://github.com/M12Shehab)
 
 ## 🙏 Acknowledgments
 
@@ -339,9 +338,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💬 Support
 
-- **Issues:** [GitHub Issues](https://github.com/yourusername/data-analysis-agent/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/yourusername/data-analysis-agent/discussions)
-- **Email:** your.email@example.com
+- **Issues:** [GitHub Issues](https://github.com/M12Shehab/DataAnalysisAgent/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/M12Shehab/DataAnalysisAgent/discussions)
+- **Email:** shihab@live.cn
 
 ---
 
@@ -349,7 +348,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ If you find this project useful, please consider giving it a star! ⭐**
 
-Made with ❤️ by [Mohammed Shehab](https://github.com/yourusername)
+Made by [Mohammed Shehab](https://github.com/yourusername)
 
 © 2026 Mohammed Shehab | MIT License
 
