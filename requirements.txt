@@ -1,0 +1,19 @@
+# Core
+python-dotenv
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# LLM + Agents
+langchain
+langchain-core
+langchain-community
+langchain-openai
+openai
+
+# UI
+gradio
+pytz

@@ -1,0 +1,19 @@
+services:
+  data-analysis-agent:
+    container_name: data_analysis_agent
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: data-analysis-agent:latest
+
+    ports:
+      - "7860:7860"
+
+    env_file:
+      - .env
+
+    volumes:
+      # Dev only – remove in production
+      - ./app:/app/app
+
+    restart: unless-stopped
